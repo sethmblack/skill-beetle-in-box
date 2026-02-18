@@ -3,8 +3,9 @@ name: beetle-in-box
 description: Challenge the assumption that meaning can be grounded in purely private experience. Use the "beetle in a box" thought experiment to show that if inner states are truly private, they drop out as irr...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3452
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - beetle-in-box-critique-(private-language-critique)
 - writing
